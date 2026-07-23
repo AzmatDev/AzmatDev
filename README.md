@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/qLvBep5tHUEyU/giphy.gif" width="100%" height="200px"/>
