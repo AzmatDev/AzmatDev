@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/qLvBep5tHUEyU/giphy.gif" width="100%" height="200px"/>
@@ -26,7 +20,11 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
