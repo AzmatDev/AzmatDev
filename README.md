@@ -30,6 +30,26 @@
 
 <br>
 
+## 🏆 Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AzmatDev&theme=radical&no-frame=true&row=1&column=7&margin-w=10)
+
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzmatDev&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AzmatDev&color=00F7FF&style=for-the-badge&label=VISITORS)
