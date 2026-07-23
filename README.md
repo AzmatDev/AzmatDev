@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qLvBep5tHUEyU/giphy.gif" width="100%" height="200px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpmbDJmenZsNDJwaGNqOTloZmNnazJ0ajhxZzBpdmt5aTluazViciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ebkfIyR4vM9ry/giphy.gif" width="100%" height="200px"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+Azmat+%F0%9F%91%8B;Full-Stack+Developer;Welcome+to+my+world" alt="Typing SVG" />
 
@@ -25,26 +25,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AzmatDev/AzmatDev/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AzmatDev&theme=radical&no-frame=true&row=1&column=7&margin-w=10)
-
-</div>
-
-<br>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzmatDev&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
